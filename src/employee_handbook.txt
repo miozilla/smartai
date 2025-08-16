@@ -1,0 +1,210 @@
+TechCorp Employee Handbook
+Table of Contents
+1. Introduction
+2. Employment Policies
+3. Workplace Conduct
+4. Compensation & Benefits
+5. Time Off & Leave Policies
+6. IT & Security Policies
+1. Introduction
+Welcome to TechCorp
+Welcome to TechCorp! We're excited to have you join our innovative technology company. This handbook serves as your guide to our company policies, procedures, and benefits. While comprehensive, it cannot address every situation that may arise. Please reach out to HR with any questions.
+Company Mission & Values
+Mission: "To deliver cutting-edge technology solutions that empower businesses and individuals to achieve their full potential."
+Our Core Values:
+* Innovation: Pushing boundaries and embracing new ideas
+* Integrity: Maintaining the highest ethical standards in all we do
+* Collaboration: Working together to achieve exceptional results
+* Excellence: Striving for outstanding quality in everything we deliver
+* Diversity: Embracing different perspectives and fostering inclusion
+About This Handbook
+* This handbook is effective as of March 2025
+* It supersedes all previous versions
+* TechCorp reserves the right to modify policies at any time
+* This handbook is not a contract of employment
+* All employees are required to read and acknowledge this handbook
+* Updates will be communicated via company email and intranet
+
+2. Employment Policies
+Equal Employment Opportunity
+* TechCorp is committed to providing equal employment opportunities to all employees and applicants
+* We prohibit discrimination based on race, color, religion, gender, age, national origin, disability, sexual orientation, or any other protected status
+* This policy applies to hiring, promotion, termination, compensation, and all other aspects of employment
+Employment Classifications
+1. Full-Time Employees
+2. Work 40 hours per week
+3. Eligible for all company benefits
+4. Part-Time Employees
+5. Work less than 40 hours per week
+6. Pro-rated benefits based on hours worked
+7. Contract Workers
+8. Fixed-term employment
+9. Benefits as specified in contract
+Work Hours
+* Standard hours: 9 AM - 5 PM, Monday through Friday
+* Core hours: 10 AM - 3 PM (all employees must be available)
+* Flexible scheduling available with manager approval
+* Overtime must be pre-approved by supervisor
+* Remote Work Policy
+* Hybrid work model: 3 days in office, 2 days remote
+* Equipment provided for home office setup
+* Must maintain secure internet connection
+* Expected to be available during core hours
+* Virtual meeting attendance required
+Performance Reviews
+* Conducted bi-annually (June and December)
+* Self-evaluation required
+* Manager evaluation and feedback
+* Goal setting and development planning
+* Merit increases and promotions considered
+* Performance improvement plans when necessary
+
+3. Workplace Conduct
+Professional Behavior Expectations
+* Treat all colleagues with respect and courtesy
+* Maintain professional communication in all channels (email, Slack, meetings)
+* Meet deadlines and communicate proactively about challenges
+* Attend required meetings and training sessions
+* Follow chain of command for issue resolution
+Anti-Harassment Policy
+* Zero tolerance for harassment of any kind
+* Prohibited behaviors include:
+* Verbal harassment
+* Physical harassment
+* Sexual harassment
+* Cyber harassment
+* Workplace bullying
+Reporting procedures:
+* Report to immediate supervisor or HR
+* All reports investigated confidentially
+* No retaliation against reporters
+* Disciplinary action up to termination for violations
+Dress Code (Business Casual)
+Acceptable attire:
+* Collared shirts, blouses, sweaters
+* Slacks, khakis, dress pants
+* Conservative-length skirts/dresses
+* Clean, professional footwear
+Not permitted:
+* Athletic wear
+* Ripped/torn clothing
+* Offensive graphics/text
+* Overly casual attire
+Conflict Resolution
+* Address conflicts promptly and professionally
+* Follow resolution steps:
+1. Direct communication with involved parties
+2. Supervisor intervention if needed
+3. HR mediation if required
+4. Formal grievance process as last resort
+* Documentation required for all formal complaints
+Health & Safety Guidelines
+* Maintain clean and safe workspace
+* Report safety hazards immediately
+* Follow emergency procedures
+* Comply with building security protocols
+* Zero tolerance for workplace violence
+* Drug and alcohol-free workplace
+* Smoking only in designated areas
+
+4. Time Off & Leave Policies
+Vacation Time
+* Accrual Schedule:
+o 0-2 years: 15 days annually
+o 3-5 years: 18 days annually
+o 6+ years: 20 days annually
+* Maximum rollover: 5 days per year
+* Must be requested at least 2 weeks in advance
+* Subject to manager approval
+* Blackout dates during peak business periods
+Sick Leave
+* 10 days provided annually
+* No doctor's note required for 1-2 day absences
+* Medical documentation required for 3+ consecutive days
+* Can be used for personal or family illness
+* Unused sick days do not roll over
+Holiday Schedule
+* 11 paid holidays annually:
+o New Year's Day
+o Martin Luther King Jr. Day
+o Presidents' Day
+o Memorial Day
+o Independence Day
+o Labor Day
+o Thanksgiving Day
+o Day after Thanksgiving
+o Christmas Eve
+o Christmas Day
+o New Year's Eve
+Family and Medical Leave
+* Up to 12 weeks FMLA leave
+o Parental Leave:
+o 16 weeks paid maternity leave
+o 8 weeks paid paternity leave
+o Adoption/foster care leave
+* Medical certification required
+* Job protection guaranteed
+* Benefits continuation during leave
+Other Leave Types
+* Bereavement Leave: Up to 5 days for immediate family
+* Jury Duty: Fully paid during service
+* Military Leave: As required by law
+* Personal Leave: Up to 30 days unpaid
+* Sabbatical: After 5 years of service
+* Emergency Leave: Case-by-case basis
+
+5. IT & Security Policies
+Device Usage
+* Company-issued devices:
+o Laptops/computers
+o Mobile phones
+o Tablets
+o Accessories
+* Acceptable use guidelines
+* Personal device (BYOD) regulations
+* Regular maintenance requirements
+* Return procedures upon termination
+Data Security
+* Data classification levels:
+o Public
+o Internal
+o Confidential
+o Restricted
+* Data handling procedures
+* Encryption requirements
+* Secure file sharing protocols
+* Data retention policies
+* Backup procedures
+Network Security
+* Password requirements:
+o Minimum 12 characters
+o Complex combinations
+o 90-day rotation
+o Two-factor authentication
+* VPN usage requirements
+* Wi-Fi security protocols
+* Remote access guidelines
+* Network monitoring policies
+Software & Applications
+* Approved software list
+* Installation procedures
+* Licensing compliance
+* Update requirements
+* Prohibited applications
+* Cloud service usage guidelines
+* Software request process
+Security Protocols
+* Security incident reporting
+* Physical security measures
+* Clean desk policy
+* Visitor management
+* Access card procedures
+* Security awareness training
+* Regular security audits
+Privacy & Confidentiality
+* NDA requirements
+* Customer data protection
+* Intellectual property guidelines
+* Social media guidelines
+* Email usage policies
+* Confidential information handling
